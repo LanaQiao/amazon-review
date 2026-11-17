@@ -1,0 +1,13 @@
+primary_cause,review_count,share,avg_severity,avg_confidence,priority_score
+quality_durability,289,0.289,3.554,0.926,950.561
+performance_functionality,226,0.226,3.456,0.913,712.714
+size_fit_design,136,0.136,2.897,0.926,364.653
+description_expectation_gap,133,0.133,3.023,0.899,361.588
+safety_health,63,0.063,4.429,0.923,257.654
+usability_setup,34,0.034,3.029,0.898,92.458
+value_for_money,36,0.036,2.722,0.881,86.349
+delivery_packaging,26,0.026,3.423,0.918,81.743
+wrong_item_counterfeit,16,0.016,3.688,0.914,53.948
+other,25,0.025,1.72,0.803,34.52
+customer_service_return,6,0.006,3.833,0.875,20.125
+unclear,10,0.01,2.0,0.725,14.5

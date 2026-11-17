@@ -1,0 +1,17 @@
+# 本地环境
+.venv/
+__pycache__/
+*.py[cod]
+.pip-cache/
+.workbuddy/
+
+# 密钥
+.env
+
+# 系统与缓存文件
+.DS_Store
+.hf_cache/
+**/.hf_cache/
+
+# 原始评论与中间产物：可由 scripts/ 重新生成，且受数据集许可限制
+outputs/**/*.jsonl

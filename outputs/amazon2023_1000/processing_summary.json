@@ -1,0 +1,63 @@
+{
+  "source": "Amazon Reviews 2023 (McAuley Lab, UCSD)",
+  "categories": [
+    "All_Beauty",
+    "Appliances",
+    "Home_and_Kitchen",
+    "Pet_Supplies"
+  ],
+  "negative_stars": [
+    1,
+    2
+  ],
+  "retained": 1000,
+  "star_distribution": {
+    "1": 616,
+    "2": 384
+  },
+  "category_distribution": {
+    "All_Beauty": 250,
+    "Appliances": 250,
+    "Home_and_Kitchen": 250,
+    "Pet_Supplies": 250
+  },
+  "dropped": {
+    "non_negative_star": 8748,
+    "too_short": 41,
+    "truncated": 17
+  },
+  "by_category": {
+    "All_Beauty": {
+      "retained": 250,
+      "dropped": {
+        "non_negative_star": 1803,
+        "too_short": 17,
+        "truncated": 2
+      }
+    },
+    "Appliances": {
+      "retained": 250,
+      "dropped": {
+        "non_negative_star": 2014,
+        "too_short": 11,
+        "truncated": 10
+      }
+    },
+    "Home_and_Kitchen": {
+      "retained": 250,
+      "dropped": {
+        "non_negative_star": 2530,
+        "too_short": 5,
+        "truncated": 4
+      }
+    },
+    "Pet_Supplies": {
+      "retained": 250,
+      "dropped": {
+        "non_negative_star": 2401,
+        "truncated": 1,
+        "too_short": 8
+      }
+    }
+  }
+}
